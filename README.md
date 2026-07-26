@@ -3,6 +3,7 @@
 Aplikasi poll real-time di atas Stellar/Soroban. Satu pertanyaan, beberapa pilihan, siapa saja
 bisa connect wallet dan vote — hasilnya ter-update otomatis dan tersimpan permanen di blockchain.
 
+# DOWNLOAD FILE LENGKAP DISINI https://drive.google.com/file/d/12gRq_bfmk5t0TnNmipJp2phutbA87c8q/view?usp=sharing
 📖 Panduan instalasi & menjalankan lengkap ada di [`TUTORIAL.md`](./TUTORIAL.md).
 
 ## 📸 Screenshot
